@@ -1,3 +1,4 @@
+# [Counting Rooms](https://cses.fi/problemset/task/1192/)
 <img src="https://github.com/user-attachments/assets/f27880b4-1326-4342-8be0-cf5201656765" style="height: 80%;">
 
 # Solution:
@@ -28,3 +29,8 @@ int main(){
 }
 
 ```
+
+# Complexity Analysis
+<img src="https://github.com/user-attachments/assets/35c2c1b5-1e93-4927-85df-af087c45748b" style="width: 80%;">
+
+
